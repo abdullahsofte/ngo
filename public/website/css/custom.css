@@ -1,0 +1,54 @@
+.notice-table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.notice_tr {
+    background-color: #00246B;
+    color: #fff;
+  
+}
+.notice_tr th{
+   font-size: 20px;
+   padding: 5px 0px;
+}
+.t_body td{
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    font-size: 15px;
+}
+
+
+.notice-viw i{
+    font-size: 20px;
+    padding: 0px 8px;
+    color: #04AA6D;
+}
+.notice-dwn i{
+    font-size: 20px;
+    padding: 0px 8px;
+    color: #1e90ff;
+}
+
+.gallery .controls .button {
+    padding: 0.7rem 1rem;
+    font-size: 15px;
+    color: var(--grey);
+    font-weight: 600;
+    width: 200px;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.notice-header{
+    text-align: center;
+    background-color: #ddd;
+}
+
+
+
+
